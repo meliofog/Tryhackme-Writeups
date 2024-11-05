@@ -1,4 +1,5 @@
 # TryHackMe - File Inclusion Challenges Writeup:
+[ROOM](https://tryhackme.com/r/room/fileinc)
 
 ## Introduction
 This writeup documents my approach to capturing flags in the File Inclusion challenges, where I explored techniques for bypassing input sanitization and leveraging Local and Remote File Inclusion (LFI/RFI) vulnerabilities.

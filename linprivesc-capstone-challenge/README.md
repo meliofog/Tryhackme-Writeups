@@ -1,4 +1,5 @@
 # Linux privilege escalation - Capstone Challenge Writeup:
+[ROOM](https://tryhackme.com/r/room/linprivesc)
 
 ## Introduction
 By now you have a fairly good understanding of the main privilege escalation vectors on Linux 
